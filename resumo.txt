@@ -1,0 +1,7 @@
+yarn add typescript -D
+
+yarn add -D @types/express
+
+yarn tsc --init
+
+yarn tsc
